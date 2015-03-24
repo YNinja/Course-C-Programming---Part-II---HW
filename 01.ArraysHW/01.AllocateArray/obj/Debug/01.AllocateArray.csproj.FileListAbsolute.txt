@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\01.AllocateArray\obj\Debug\01.AllocateArray.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\01.AllocateArray\bin\Debug\01.AllocateArray.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\01.AllocateArray\bin\Debug\01.AllocateArray.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\01.AllocateArray\obj\Debug\01.AllocateArray.pdb

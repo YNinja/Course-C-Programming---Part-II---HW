@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\04.MaximumSequence\bin\Debug\04.MaximumSequence.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\04.MaximumSequence\obj\Debug\04.MaximumSequence.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\04.MaximumSequence\bin\Debug\04.MaximumSequence.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\04.MaximumSequence\bin\Debug\04.MaximumSequence.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\04.MaximumSequence\obj\Debug\04.MaximumSequence.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\04.MaximumSequence\obj\Debug\04.MaximumSequence.pdb

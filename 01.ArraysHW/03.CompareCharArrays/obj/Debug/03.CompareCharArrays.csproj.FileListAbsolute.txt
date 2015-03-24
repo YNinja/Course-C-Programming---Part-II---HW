@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.pdb

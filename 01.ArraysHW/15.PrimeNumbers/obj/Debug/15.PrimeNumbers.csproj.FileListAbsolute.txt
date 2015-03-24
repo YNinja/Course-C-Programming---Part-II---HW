@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.pdb

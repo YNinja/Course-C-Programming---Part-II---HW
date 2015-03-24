@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

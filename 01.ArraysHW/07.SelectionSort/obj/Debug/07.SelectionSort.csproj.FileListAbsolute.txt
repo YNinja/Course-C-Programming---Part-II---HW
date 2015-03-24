@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

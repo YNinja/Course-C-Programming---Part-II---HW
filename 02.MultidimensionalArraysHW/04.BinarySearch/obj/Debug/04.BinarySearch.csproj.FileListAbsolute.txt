@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\04.BinarySearch\obj\Debug\04.BinarySearch.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

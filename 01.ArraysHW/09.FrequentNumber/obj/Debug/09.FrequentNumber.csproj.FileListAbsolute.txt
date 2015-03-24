@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\09.FrequentNumber\bin\Debug\09.FrequentNumber.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb

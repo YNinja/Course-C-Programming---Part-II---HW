@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb

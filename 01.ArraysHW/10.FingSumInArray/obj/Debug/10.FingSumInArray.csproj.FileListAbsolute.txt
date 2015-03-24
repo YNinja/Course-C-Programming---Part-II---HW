@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\10.FingSumInArray\bin\Debug\10.FingSumInArray.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\10.FingSumInArray\bin\Debug\10.FingSumInArray.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\10.FingSumInArray\bin\Debug\10.FingSumInArray.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\10.FingSumInArray\obj\Debug\10.FingSumInArray.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\10.FingSumInArray\obj\Debug\10.FingSumInArray.pdb

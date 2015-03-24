@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\02.MultidimensionalArraysHW\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\08.MaximalSum\bin\Debug\08.MaximalSum.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\08.MaximalSum\obj\Debug\08.MaximalSum.pdb

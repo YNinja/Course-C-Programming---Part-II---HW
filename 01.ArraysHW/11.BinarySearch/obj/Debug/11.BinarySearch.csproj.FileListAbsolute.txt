@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part II\ArraysHomework\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
